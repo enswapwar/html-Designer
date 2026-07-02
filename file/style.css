@@ -5,6 +5,7 @@ header{
     right: 0px;
     left: 180px;
     bottom: 0px;
+    height: 60px;
     display: flex;
     padding-left: 40px;
 }
